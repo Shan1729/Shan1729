@@ -1,7 +1,6 @@
 # Hi, I'm Shan 👋
 
- 🎓 M.Tech. in Renewable Energy @ MANIT Bhopal  
- 🎓 M.S. in Computer Science(Data Science and AI) @ Woolf University London UK
+ 🎓 M.Tech. in Renewable Energy @ MANIT Bhopal  🎓 M.S. in Computer Science(Data Science and AI) @ Woolf University London UK
  ⚡ Passionate about IoT, AI/ML, and Clean Energy Systems  
  💻 Exploring Data Science, System Design & AI Agents (agents working 24/7 so I don’t have to 😅)  
  🌱 Currently building IoT-enabled Solar Dryer & Energy Models  
@@ -9,10 +8,10 @@
 ---
 
 ### 🛠 Tech Stack
-- Programming: Python, MATLAB/Simulink, Arduino, C++  
+- Programming: Python, MATLAB/Simulink, Arduino, Embedded C 
 - Data/AI: Pandas, NumPy, Scikit-learn, ML models  
-- IoT/Hardware: Arduino Mega, NodeMCU, Sensors (DHT22, PT100, MAX31865)  
-- Tools: Git, VS Code, PyCharm, HOMER Pro  
+- IoT/Hardware: Arduino Mega, NodeMCU, Sensors (DHT22, PT100, MAX31865), ThingSpeak IoT 
+- Tools: Git, VS Code, PyCharm, HOMER Pro, Jupyter , PVSyst 
 
 ---
 
