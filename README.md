@@ -1,4 +1,27 @@
-## Hi there 👋
+# Hi, I'm Shan 👋
+
+🎓 M.Tech in Renewable Energy @ MANIT Bhopal  
+⚡ Passionate about IoT, AI/ML, and Clean Energy Systems  
+💻 Exploring Data Science, System Design & AI Agents (working 24/7 so I don’t have to 😅)  
+🌱 Currently building IoT-enabled Solar Dryer & Energy Models  
+
+---
+
+### 🛠 Tech Stack
+- Programming: Python, MATLAB/Simulink, Arduino, C++  
+- Data/AI: Pandas, NumPy, Scikit-learn, ML models  
+- IoT/Hardware: Arduino Mega, NodeMCU, Sensors (DHT22, PT100, MAX31865)  
+- Tools: Git, VS Code, PyCharm, HOMER Pro  
+
+---
+
+### 📈 GitHub Stats
+![Shan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shan1729&show_icons=true&theme=tokyonight)
+
+---
+
+### 🌐 Connect
+- [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/)  
 
 <!--
 **Shan1729/Shan1729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
