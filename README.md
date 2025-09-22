@@ -1,6 +1,6 @@
 # Hi, I'm Shan 👋
 
-🎓 M.Tech in Renewable Energy @ MANIT Bhopal  
+🎓 M.Tech in Renewable Energy @ MANIT Bhopal  |  M.S. in Computer Science @ Woolf University London UK
 ⚡ Passionate about IoT, AI/ML, and Clean Energy Systems  
 💻 Exploring Data Science, System Design & AI Agents (working 24/7 so I don’t have to 😅)  
 🌱 Currently building IoT-enabled Solar Dryer & Energy Models  
