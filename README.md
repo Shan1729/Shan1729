@@ -8,7 +8,7 @@
 ---
 
 ### 🛠 Tech Stack
-- Programming: Python, LLMs , agentic workflows and agentic AI, SQL, RAG systems , agentic RAG , LangGraph , LlamaIndex 
+- Programming: Python, LLMs , agentic workflows and agentic AI, SQL, RAG systems , agentic RAG , LangGraph , LlamaIndex , Crew AI 
 - Data/AI: Pandas, NumPy, Scikit-learn, ML models  
 - IoT/Hardware: Arduino Mega, NodeMCU, Sensors (DHT22, PT100, MAX31865), ThingSpeak IoT 
 - Tools: Git, VS Code, PyCharm, HOMER Pro, Jupyter , PVSyst 
